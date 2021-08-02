@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/bg_edit_text_sticker.xml" value="0.2625" />
+        <entry key="app/src/main/res/drawable/ic_add_emoji_sticker.xml" value="0.26510416666666664" />
+        <entry key="app/src/main/res/drawable/ic_add_image_sticker.xml" value="0.26510416666666664" />
+        <entry key="app/src/main/res/drawable/ic_add_text_sticker.xml" value="0.26510416666666664" />
+        <entry key="app/src/main/res/drawable/ic_baseline_brush_24.xml" value="0.26510416666666664" />
+        <entry key="app/src/main/res/drawable/ic_baseline_check_24.xml" value="0.2625" />
+        <entry key="app/src/main/res/drawable/ic_baseline_close_24.xml" value="0.2625" />
+        <entry key="app/src/main/res/drawable/ic_edit_text.xml" value="0.26510416666666664" />
+        <entry key="app/src/main/res/drawable/ic_font_change.xml" value="0.26510416666666664" />
+        <entry key="app/src/main/res/drawable/ic_font_color.xml" value="0.26510416666666664" />
+        <entry key="app/src/main/res/drawable/ic_font_size_down.xml" value="0.26510416666666664" />
+        <entry key="app/src/main/res/drawable/ic_font_size_up.xml" value="0.26510416666666664" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.12635869565217392" />
+        <entry key="app/src/main/res/layout/activity_select_emoji.xml" value="0.24895833333333334" />
+        <entry key="app/src/main/res/layout/activity_select_sticker.xml" value="0.2078125" />
+        <entry key="app/src/main/res/layout/activity_signature.xml" value="0.165" />
+        <entry key="app/src/main/res/layout/item_sticker.xml" value="0.24895833333333334" />
+        <entry key="app/src/main/res/layout/layout_text_editor.xml" value="0.21822916666666667" />
+        <entry key="app/src/main/res/layout/layout_toolbar.xml" value="0.12107396149949341" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
