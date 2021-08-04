@@ -8,13 +8,18 @@ import android.view.View
 import android.view.ViewGroup
 import android.view.inputmethod.InputMethodManager
 import android.widget.EditText
-import androidx.core.content.ContextCompat.getSystemService
 import androidx.core.widget.doAfterTextChanged
+import androidx.fragment.app.DialogFragment
 import com.google.android.material.bottomsheet.BottomSheetDialogFragment
 import com.mhwan.wannabeimagecomponent.R
 
 class TextEditorFragment(val textEditorCallback: TextEditorCallback) : BottomSheetDialogFragment() {
     private val editText: EditText? by lazy { view?.findViewById(R.id.et_edit_text) }
+
+    override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        setStyle(DialogFragment.STYLE_NORMAL, R.style.BottomSheetStyle)
+    }
 
     override fun onCreateView(
         inflater: LayoutInflater,
